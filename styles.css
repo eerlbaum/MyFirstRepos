@@ -25,3 +25,7 @@ p {
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto Slab', serif;
 }
+a {
+    color: #40a4bd;
+    text-decoration: none;
+}
