@@ -25,9 +25,6 @@ h1 {
     color: #023d18;
     margin-bottom: 20px;
     font-family: 'Cabin', sans-serif;
-    font-family: 'Lora', serif;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Roboto Slab', serif;
 
 }
 
@@ -36,9 +33,7 @@ h2 {
     color: #11241d;
     margin-bottom: 10px;
     font-family: 'Cabin', sans-serif;
-    font-family: 'Lora', serif;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Roboto Slab', serif;
+
 
 }
 
@@ -46,12 +41,7 @@ p {
     line-height: 28px;
     font-size: 19px;
     color: #072e02;
-    font-family: 'Cabin', sans-serif;
     font-family: 'Labrada', serif;
-    font-family: 'Lora', serif;
-    font-family: 'Oswald', sans-serif;
-    font-family: 'Roboto Slab', serif;
-
 }
 
 /*a {
