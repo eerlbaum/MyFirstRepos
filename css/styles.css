@@ -1,4 +1,4 @@
-.buttons-links {
+.button-link {
     border-style: solid;
     border-color: rgb(0, 238, 255);
     background-color: rgb(168, 115, 46);
@@ -41,7 +41,7 @@ p {
     font-family: 'Roboto Slab', serif;
 }
 
-a {
+/*a {
     color: #40a4bd;
     text-decoration: none;
-}
+}*/
