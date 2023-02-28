@@ -14,7 +14,17 @@
     font-family: 'Labrada', serif;
 
 }
-
+.top-banner {
+    height: 248px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: rgb(0, 238, 255);
+}
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
 body {
     background-color: #fff7f9;
 }
@@ -44,7 +54,12 @@ p {
     color: #072e02;
     font-family: 'Labrada', serif;
 }
-
+footer {
+    height: 70px;
+    text-align: center;
+    background-color: rgb(0, 238, 255);
+    padding: 10px 0px;
+}
 /*a {
     color: #40a4bd;
     text-decoration: none;
