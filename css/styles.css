@@ -16,9 +16,9 @@
 }
 
 .top-banner {
-    height: 100px;
+    height: 150px;
     text-align: center;
-    padding-top: 5px;
+    padding-top: .06px;
     background-color: #fff7f9;
 }
 
