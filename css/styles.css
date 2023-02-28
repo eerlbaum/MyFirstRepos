@@ -4,7 +4,7 @@
     background-color: #fff7f9;
     border-width: 2px;
     text-decoration: none;
-    color: rgb(0, 238, 255);
+    color: #09569e;
     padding: 4px;
     border-radius: 10px;
     display: block;
@@ -18,7 +18,7 @@
 .top-banner {
     height: 100px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 5px;
     background-color: #fff7f9;
 }
 
