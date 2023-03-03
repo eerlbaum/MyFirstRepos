@@ -15,6 +15,15 @@
 
 }
 
+.list-nav {
+    list-style-type: none;
+    text-align: center;
+}
+
+.list-nav li {
+    display: inline;
+}
+
 .top-banner {
     height: 150px;
     text-align: center;
@@ -28,15 +37,15 @@
     padding: 0 10px;
 }
 
+
 body {
     background-color: #ffffff;
 }
 
 /*typography*/
-nav{
-background-color: #072e02;
-text-align: center;
-
+nav {
+    background-color: #072e02;
+    
 }
 
 h1 {
