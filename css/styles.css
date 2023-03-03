@@ -18,10 +18,27 @@
 .list-nav {
     list-style-type: none;
     text-align: center;
+    padding: 0;
+    margin: 0 auto;
+    width: 500px;
 }
 
 .list-nav li {
     display: inline;
+}
+
+/*.nav-buttons{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 30px;
+  }*/
+
+.list-nav li a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .top-banner {
@@ -45,7 +62,8 @@ body {
 /*typography*/
 nav {
     background-color: #072e02;
-    
+    padding: 20px;
+
 }
 
 h1 {
