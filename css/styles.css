@@ -33,6 +33,12 @@ body {
 }
 
 /*typography*/
+nav{
+background-color: #072e02;
+text-align: center;
+
+}
+
 h1 {
     text-align: center;
     font-size: 80px;
