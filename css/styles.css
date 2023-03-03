@@ -41,6 +41,22 @@
     padding-left: 10px;
 }
 
+.list-button{
+    border-style: solid;
+     border-color: #ffffff;
+     background-color: #023d18;
+     border-width: .5px;
+     text-decoration: none;
+     color: #ffffff;
+     padding: 4px;
+     border-radius: 20px;
+     display: inline;
+     width: 150px;
+     text-align: center;
+     margin-top: 20px;
+     font-family: 'Labrada', serif;
+ 
+ }
 .top-banner {
     height: 150px;
     text-align: center;
