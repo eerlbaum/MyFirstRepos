@@ -62,6 +62,10 @@
     text-align: center;
     padding-top: .06px;
     background-color: #fff7f9;
+    background-image: url("https://www.sciencealert.com/images/2022/11/VeganFoodsAssortment.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+  
 }
 
 .main-content {
@@ -85,7 +89,7 @@ nav {
 h1 {
     text-align: center;
     font-size: 80px;
-    color: #023d18;
+    color:/*#023d18*/ #9d8ade;
     margin-bottom: 20px;
     font-family: 'Cabin', sans-serif;
 
