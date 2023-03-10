@@ -130,3 +130,31 @@ footer {
     color: #40a4bd;
     text-decoration: none;
 }*/
+
+/*mobile styles*/
+@media only screen and (max-width: 600px){
+    /*mobile styles go here*/
+    .top-banner{
+        padding-top: 80px;
+    }
+
+    body {
+        background-color: #000000;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h2,p {
+        color:#ffffff;
+    }
+
+    .list-nav li a{
+        margin: 5px;
+    }
+
+    .list-nav{
+        text-align:left;
+    }
+}
