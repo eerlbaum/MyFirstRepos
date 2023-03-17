@@ -74,6 +74,10 @@
     padding: 0 10px;
 }
 
+.article-image {
+    width: 300px;
+}
+
 html {
     scroll-behavior: smooth;
   }
@@ -119,11 +123,16 @@ p {
     font-family: 'Labrada', serif;
 }
 
+img {
+    width: 100%;
+}
+
 footer {
     height: 70px;
     text-align: center;
     background-color: #fff7f9;
     padding: 10px 0px;
+    margin-top: 25px;
 }
 
 /*a {
